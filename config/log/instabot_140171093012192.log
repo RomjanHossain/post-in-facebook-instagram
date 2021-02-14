@@ -1,0 +1,6 @@
+2021-02-13 18:51:01,153 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2021-02-13 18:51:01,154 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from /media/Linux/Programming/python/Insta/env/lib/python3.9/site-packages/instabot/bot/bot.py
+2021-02-13 18:51:01,155 - instabot version: 0.117.0 (api_login) - INFO - Not yet logged in starting: PRE-LOGIN FLOW!
+2021-02-13 18:51:01,666 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: accounts/get_prefill_candidates/ returned response: <Response [200]>
+2021-02-13 18:51:02,185 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/sync/ returned response: <Response [200]>
+2021-02-13 18:51:02,983 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: launcher/sync/ returned response: <Response [200]>
